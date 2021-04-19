@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AN CEP Training WeatherApp</string>
+    <string name="weather_temp_C">%.0f &#8451;</string>
+    <string name="weather_temp_F">%.0f &#8457;</string>
+</resources>
